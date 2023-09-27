@@ -1,0 +1,25 @@
+_repo: The-life-and-works-of-Sir-Charles-Barry_71663
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barry, Alfred
+    gutenberg_agent_id: '56318'
+    url: http://www.gutenberg.org/2009/agents/56318
+description: ''
+gutenberg_issued: '2023-09-16'
+identifiers:
+  gutenberg: '71663'
+language: en
+pgterms:marc905: 20220222040249barry
+pgterms:marc906: '1867'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bJohn Murray, $c1867.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The life and works of Sir Charles Barry
+url: http://www.gutenberg.org/ebooks/71663
