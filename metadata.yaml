@@ -1,11 +1,16 @@
 _repo: The-life-and-works-of-Sir-Charles-Barry_71663
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71663-h/images/cover.jpg
 creator:
   author:
     agent_name: Barry, Alfred
     gutenberg_agent_id: '56318'
     url: http://www.gutenberg.org/2009/agents/56318
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71663#The-life-and-works-of-Sir-Charles-Barry
 gutenberg_issued: '2023-09-16'
 identifiers:
   gutenberg: '71663'
